@@ -1,0 +1,6 @@
+name="fastapi"
+compatibility_date="2024-04-19"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN= "AYQ8ASQgMDU0ZWQyOGYtN2Y3OS00YzEwLWE5NTgtNGI2NDNkMzYwNWMwYTU5NGUwMWM3MzgzNGE5MGEwYThlMmQ0OWExNmM0NDk="
+UPSTASH_REDIS_REST_URL= "https://usw1-probable-yeti-33852.upstash.io"
